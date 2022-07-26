@@ -23,7 +23,7 @@ You are most welcome to contribute to this project!
 *  Give me a [Star](https://github.com/LordSaac/ExtensionCrop_ML) &nbsp; :star:
 
 <br>
-<h2>Released August 29, 2021</h2>
+<h2>Released July 26, 2022</h2>
 
 ## Licence
 
