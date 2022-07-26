@@ -1,4 +1,4 @@
-### Labreries Key Vault
+## Labreries Key Vault
 
 
 Installing packages necessary for support Key Vault into your project. 
@@ -14,7 +14,7 @@ dotnet add package Azure.Extensions.AspNetCore.Configuration.Secrets --version 1
  
 ```
 
-# Contribution
+## Contribution
 
 You are most welcome to contribute to this project!
 
