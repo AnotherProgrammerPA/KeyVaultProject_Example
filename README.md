@@ -1,10 +1,18 @@
 ## Architecture
+<br><br>
 
+<p align="center">
 
+ <img  src="https://github.com/AnotherProgrammerPA/KeyVaultProject_Example/blob/master/KeyVaultProject_Example/Architecture_key_vautl.drawio.png">
 
- <img  height="300" width="250" src="https://github.com/LordSaac/ScannerBarCrop_ML/blob/master/images/Screenshot_20210902-205759.jpg">
+</p>
 
+<p align="center">
+     In this image,  description about the architecture this project connecting to Azure Key Vault.
+</p>
 
+<br>
+<br>
 
 
 ## Labreries Key Vault
@@ -35,7 +43,7 @@ You are most welcome to contribute to this project!
 
 ## Licence
 
-Copyright 2021 Isaac G. Banda
+Copyright 2022 José I. Gutiérrez B.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
