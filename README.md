@@ -1,5 +1,13 @@
-## Labreries Key Vault
+## Architecture
 
+
+
+ <img  height="300" width="250" src="https://github.com/LordSaac/ScannerBarCrop_ML/blob/master/images/Screenshot_20210902-205759.jpg">
+
+
+
+
+## Labreries Key Vault
 
 Installing packages necessary for support Key Vault into your project. 
 
